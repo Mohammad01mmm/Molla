@@ -1,0 +1,35 @@
+.dir-rtl {
+    direction: rtl !important;
+}
+.dir-ltr {
+    direction: ltr !important;
+}
+.text-left {
+    text-align: left !important;
+}
+#bottom-sidebar {
+    overflow-x: auto !important;
+}
+/* width */
+#bottom-sidebar::-webkit-scrollbar {
+    width: 0px !important;
+}
+/* Track */
+#bottom-sidebar::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    background: #f1f1f1;
+}
+
+/* Handle */
+#bottom-sidebar::-webkit-scrollbar-thumb {
+    background: #aaa;
+}
+
+/* Handle on hover */
+#bottom-sidebar::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
+.rounded-bottom-0 {
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
