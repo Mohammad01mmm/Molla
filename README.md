@@ -36,7 +36,7 @@ Then you set DB_PASSWORD <br>
 Then you write php artisan serve project in cmd <br>
 Now your project works without errors <br>
 <br>
-<h6> Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql </h6>
+<b> Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql </b>
 
 
 <h4> Documents Progect </h4>
