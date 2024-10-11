@@ -15,14 +15,14 @@
 
 ## How to Run Project
 
-For project settings, you must first
-First, create a database in php my admin
-Then the env.example file. Convert to .env
-Then, in the DB_DATABASE field, enter the name of the database
-Then you set DB_USERNAME
-Then you set DB_PASSWORD
-Then you write php artisan serve project in cmd
-Now your project works without errors
-Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql
+<h4> For project settings, you must first </h4>
+First, create a database in php my admin <br>
+Then the env.example file. Convert to .env <br>
+Then, in the DB_DATABASE field, enter the name of the database <br>
+Then you set DB_USERNAME <br>
+Then you set DB_PASSWORD <br>
+Then you write php artisan serve project in cmd <br>
+Now your project works without errors <br>
+Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql <br>
 
-- [Project documentation version 1.0]().
+- [Project documentation version 1.0]()
