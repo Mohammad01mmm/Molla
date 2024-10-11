@@ -22,7 +22,7 @@ Then, in the DB_DATABASE field, enter the name of the database <br>
 Then you set DB_USERNAME <br>
 Then you set DB_PASSWORD <br>
 Then you write php artisan serve project in cmd <br>
-Now your project works without errors <br>
-Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql <br>
+Now your project works without errors <br><br>
+Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql <br><br><br>
 
 - [Project documentation version 1.0]()
