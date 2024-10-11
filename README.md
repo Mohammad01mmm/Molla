@@ -18,6 +18,7 @@ Then the .env.example file Convert to .env <br>
 Then, in the DB_DATABASE field, enter the name of the database <br>
 Then you set DB_USERNAME <br>
 Then you set DB_PASSWORD <br>
+Then you write php artisan migrate project in cmd <br>
 Then you write php artisan serve project in cmd <br>
 Now your project works without errors <br>
 <br>
