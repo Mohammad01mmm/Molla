@@ -13,6 +13,18 @@
             src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## What technologies does the project use?
+
+<ul>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> Bootstrap </li>
+    <li> Js ( Java Script ) </li>
+    <li> JQuery </li>
+    <li> PHP </li>
+    <li> Laravel </li>
+</ul>
+
 ## How to Run Project
 
 <h4> For project settings, you must first </h4>
