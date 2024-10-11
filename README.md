@@ -26,4 +26,5 @@ Now your project works without errors <br><br>
 Warning: You must have XAMPP or WAMP at runtime and run Apache and MySql <br><br><br>
 
 <h4> Documents Progect </h4>
-- [Project documentation version 1.0] (https://docs.google.com/document/d/e/2PACX-1vTywUTKyT_UAdiBDV0YS1Bgrrjnplfdq-G9rgR_IJd7QZ-Y36_Nkw-Pbvu0_7EC48Y_adkp-Sya7f_y/pub)
+
+- **[Project documentation version 1.0](https://docs.google.com/document/d/e/2PACX-1vTywUTKyT_UAdiBDV0YS1Bgrrjnplfdq-G9rgR_IJd7QZ-Y36_Nkw-Pbvu0_7EC48Y_adkp-Sya7f_y/pub)**
